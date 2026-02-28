@@ -59,7 +59,7 @@ const Portfolio = () => {
                 <li>Render, Vercel, Railway (Free-tier Deployment)</li>
               </ul>
             </div>
-          </div> 
+          </div>
         </div>
       </section>
 
